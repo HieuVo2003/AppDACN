@@ -16,8 +16,9 @@ import androidx.navigation.navArgument
 import com.example.mohinhstore.HomeScreen
 import com.example.mohinhstore.ProductDetailScreen
 import com.example.mohinhstore.CartScreen
+import com.example.mohinhstore.Model.Product
 import com.example.mohinhstore.ui.theme.MoHinhStoreTheme
-import com.example.mohinhstore.Product
+//import com.google.android.gms.analytics.ecommerce.Product
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
