@@ -50,6 +50,8 @@ android {
 }
 
 dependencies {
+    // Image
+    implementation("androidx.compose.material:material-icons-extended:1.4.3")
 
     implementation("androidx.navigation:navigation-compose:2.7.0")
     implementation("androidx.compose.runtime:runtime:1.5.0")
